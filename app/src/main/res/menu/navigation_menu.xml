@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/textualData"
+            android:title="@string/TextView"
+            android:icon="@drawable/tv1"
+            app:cnb_iconColor="#FF0000"
+            app:cnb_textColor="#FF0000"/>
+        <item
+            android:id="@+id/graphicalData"
+            android:title="@string/GraphView"
+            android:icon="@drawable/graph"
+            app:cnb_iconColor="#00A143"
+            app:cnb_textColor="#00A143"/>
+        <item
+            android:id="@+id/aboutData"
+            android:title="@string/AboutView"
+            android:icon="@drawable/about"
+            app:cnb_iconColor="#0026FF"
+            app:cnb_textColor="#0026FF"/>
+</menu>
