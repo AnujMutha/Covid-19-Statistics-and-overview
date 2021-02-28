@@ -5,4 +5,4 @@ Application to track covid-19 cases and its statistics
 <br/>&nbsp;~World data
 <br/>&nbsp;~Country wise data
 <br/>&nbsp;~Special tab for indian regions
-<br/Copyright © Anuj Mutha, Yash Mutha, 2020
+<br/><br/>Copyright © Anuj Mutha, Yash Mutha, 2020
